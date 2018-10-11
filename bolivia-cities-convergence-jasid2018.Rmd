@@ -1,7 +1,7 @@
 ---
 title: "On the Distribution Dynamics of Human Development:"
 subtitle: "Evidence from the Metropolitan Regions of Bolivia"
-author: "Carlos Mendez<br />https://carlos-mendez.rbind.io<br /><br />Nagoya University"
+author: "Carlos Mendez<br />https://carlos-mendez.rbind.io<br /><br />Graduate School of International Development<br />Nagoya University"
 date: "Prepared for the November Meeting of the Japan Society for International Development<br /><br />[ Slides available at: https://bit.ly/jasid2018 ]"
 output:
   xaringan::moon_reader:
@@ -25,23 +25,27 @@ options(htmltools.dir.version = FALSE)
   - By  2013, 46 % of the population are concentrated in 20 metropolitan regions 
     
     - Out of 339 regions/municipalities, that is just under 6 % !!!
+
+ 
+--
   
-- Study the evolution of human development disparities across the core metropolitan regions of Bolivia
+- Study the evolution of human development disparities across the main metropolitan regions of Bolivia
 
   1. In a context of slow economic growth: 1992-2001 period
   
   2. In a context of fast economic growth: 2001-2013 period
+
+--
   
 
 # Methods and Data
 
-- Nonparametric density estimation methods: Distribution dynamics framework (Quah 1997; Johnson 2005).
+- Nonparametric density estimation methods: Distribution dynamics framework (Quah 1996; Johnson 2005).
 
-- Humand Development Index of a sample of 20 core metropolitan regions for the years 1992, 2001, 2013 (UNDP, 2016).
+- Humand Development Index of a sample of 20 main metropolitan regions for the years 1992, 2001, 2013 (UNDP, 2016).
 
 
 ---
-class: middle
 
 # Results
 
@@ -50,6 +54,8 @@ class: middle
   - Forward mobility of the less developed regions
   
   - Backward mobility of the more developed regions.
+  
+--
 
 ## Further insights from the distribution dynamics framework:
 
@@ -65,7 +71,7 @@ class: middle
 
   - In equilibrium, least developed regions are still relatively far from achieving complete convergence.
     
-      - Implication: **Focalization of policies** at the regional level
+      - Implication: **Focalization of policies** at the cluster level
 
 ---
 
@@ -99,9 +105,15 @@ class: center, middle
 
 **The dynamics of the entire distribution provide new valuable information: nonlinear convergence, convergence clusters, long-run equilibrium**
 
+---
 
+class: center
 
+## Nonlinear convergence, convergence clusters, long-run equilibrium
 
+![](figs/distribution-dynamics.jpg)
+
+Source: Adapted from Quah, D. (1996) [Twin peaks: growth and convergence in models of distribution dynamics.](https://www.jstor.org/stable/2235377?seq=1#metadata_info_tab_contents) The economic journal, 1045-1055. 
 ---
 
 class: center, middle
@@ -146,58 +158,37 @@ class: center, middle
 
 # Concluding remarks
 
-**Regional heterogeneity matters**
 
-**Focalization of policies at the regional level**
 
 ---
+class: middle
 
-class: center
+## Regional heterogeneity matters
 
-# Endogenous grouping of countries
+- Go beyond linear average analysis
 
-![](figs/density-clusters.jpg)
+- Study the dynamics of the entire regional distribution
 
-Source: Mendez C. (2017). [Convergence Clubs Beyond GDP: A Non-Parametric Density Approach.](https://carlos-mendez.rbind.io/talk/convergence-clubs-beyond-gdp/) MPRA Working Paper No. 82048
+    - Recent advances in nonparametric econometric methods may prove useful
 
----
+--
 
-class: center
+## Focalization of policies 
 
-# A beta-convergence framework for empirical testing
+- Convergence clusters help us indentify regions with similar challenges
 
-![](figs/convergence-u.jpg)
+- Call for better coordination of regional policies and regional governments
 
-Source: Bahar, D. (2018). [The middle productivity trap: Dynamics of productivity dispersion](https://www.sciencedirect.com/science/article/pii/S0165176518300843) Economics Letters, 167, 60-66.
----
+--
 
-class: center, middle
+## Further research
 
-# Comments on premature deindustrialization
+- Analysis of the determinants of the human development index: health, education, and income
 
-**Measuring the premature deindustrialization triangle**
+- The role of gegraphical neighbors in accelerating or decelerating convergence
 
-**Finding deindustrialization clubs**
+- Formal analysis of how the regional distribution of human development changes with export commodity prices
 
----
-
-# Measuring the premature deindustrialization triangle
-
-![](figs/deindustrialization.jpg)
-
----
-
-# How big is the deindustrialization triangle?
-
-![](figs/deindustrialization-triangle.jpg)
-
----
-
-# Finding deindustrialization clubs
-
-![](figs/deindustrialization-clubs.jpg)
-
-Inspired by Phillips, P. C., & Sul, D. (2007). [Transition modeling and econometric convergence tests](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0262.2007.00811.x). Econometrica, 75(6), 1771-1855. 
 
 ---
 
